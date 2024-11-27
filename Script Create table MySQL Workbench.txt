@@ -1,9 +1,0 @@
-CREATE TABLE data (
-  id int NOT NULL AUTO_INCREMENT,
-  Artist varchar(500) NOT NULL,
-  Album varchar(1000) NOT NULL,
-  Chanson varchar(500) NOT NULL,
-  Timestamp varchar(500) NOT NULL,
-  Username varchar(500) NOT NULL,
-  PRIMARY KEY (id)
-);
